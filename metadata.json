@@ -1,0 +1,5 @@
+{
+  "name": "Neon Pulse Runner",
+  "description": "A high-speed 3D synthwave obstacle avoidance game built with React Three Fiber.",
+  "requestFramePermissions": []
+}
